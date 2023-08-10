@@ -6,8 +6,9 @@ image: images/cctv2.jpeg
 imageAltAttribute: CCTV Camera
 tags:
    - time
-   - writing 
-   - lorem 
+   - writing
+   - lorem
+draft: true
 ---
 
 ## He moved over to the window

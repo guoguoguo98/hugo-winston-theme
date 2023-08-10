@@ -1,6 +1,6 @@
 ---
-title: You don't start out writing good stuff
+title: 人生若只如初见，何事秋风悲画扇
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 
-The hallway smelt of boiled cabbage and old rag mats. At one end of it a coloured poster, too large for indoor display, had been tacked to the wall. It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five, with a heavy black moustache and ruggedly handsome features. Winston made for the stairs. It was no use trying the lift. 
+时间如流水，不停地向前奔涌。唯有不断学习、持续进步，才能在潮起潮落的人生海洋中驾驭自己的航船，穿越风浪，达到理想的彼岸。

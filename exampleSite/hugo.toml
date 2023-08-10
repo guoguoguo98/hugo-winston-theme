@@ -1,8 +1,8 @@
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "zh-cn"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Hugo Winston Theme"
+title = "Halo"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -31,7 +31,7 @@ pygmentsUseClasses = true
   headingColor = "#1c1b1d"
   textColor = "#4e5157"
   dotColor = "#7b16ff"
-  enableGoogleFonts = true 
+  enableGoogleFonts = true
   googleFontsUrl = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
   fontFamilyHeading = "Poppins"
   fontFamilyParagraph = "Helvetica"
@@ -55,14 +55,17 @@ pygmentsUseClasses = true
     name = "Blog"
     identifier = "blog"
     weight = 2
+    title = "博客"
     url = "/posts/"
   [[menu.main]]
     name = "About"
     identifier = "about"
     weight = 3
-    url = "/About/"
+    title = "关于我"
+    url = "/pages/about/"
   [[menu.main]]
     name = "Tags"
     identifier = "tags"
     weight = 4
+    title = "标签"
     url = "/tags/"
